@@ -16,7 +16,7 @@ public class TelaBusca extends JFrame {
         add(rotuloBusca);
         add(campoBusca);
 
-        JButton botaoBuscar = new JButton("Buscar");
+        JButton botaoBuscar = new JButton("Entra");
         add(botaoBuscar);
         add(new JLabel(""));
 
